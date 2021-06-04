@@ -182,13 +182,23 @@ footer nav a {
     text-decoration: none;
 }
 .aboutInfo{
+    width: 63%;
+    margin-left: 18%;
     padding-bottom: 5%;
+    /* border:1px solid grey; */
     border-bottom:1px dashed black;
+}
+.aboutInfo div{
+    width:90%;
+    margin-left: 2%;
+    font-size: 1.5rem;
 }
 .aboutGallery{
     margin-top: 5%;
     display: flex;
     flex-wrap: wrap;
     justify-content:space-between;
+    }
+.aboutGallery img{
     
 }
