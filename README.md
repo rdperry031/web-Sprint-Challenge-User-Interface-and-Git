@@ -34,27 +34,37 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+<!--  -->
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+<!--  -->
 
 3. What are the 4 areas of the box model?
 
+<!--  -->
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+<!--  -->
+
 5. Explain why git is valuable to a team of developers.
+
+<!--  -->
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
 
-- [x] Create a forked copy of this project.
-- [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [x] Push commits: git push -u origin `<firstName-lastName>`.
+- [ ] Create a forked copy of this project.
+- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [ ] Push commits: git push -u origin `<firstName-lastName>`.
  
 Follow these steps for completing your project.
 
-- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 
 
 
@@ -66,28 +76,28 @@ Your finished project must include all of the following requirements:
 
 [Review the provided design file for the home page](design-files/home.png).  Notice the navigation and header images are missing.
 
-* [x] Build the HTML and CSS to create the missing navigation and header.
-* [X] Link the `About` navigation item to the [about.html](about.html) page
+* [ ] Build the HTML and CSS to create the missing navigation and header.
+* [ ] Link the `About` navigation item to the [about.html](about.html) page
 
 You will also notice there are 10 boxes on the home page that need background colors.  Use this list below to correctly style each box:
 
-* [x] box1: `teal`
-* [x] box2: `gold`
-* [x] box3: `cadetblue`
-* [x] box4: `coral`
-* [x] box5: `crimson`
-* [x] box6: `forestgreen`
-* [x] box7: `darkorchid`
-* [x] box8: `hotpink`
-* [x] box9: `indigo`
-* [x] box10: `dodgerblue`
+* [ ] box1: `teal`
+* [ ] box2: `gold`
+* [ ] box3: `cadetblue`
+* [ ] box4: `coral`
+* [ ] box5: `crimson`
+* [ ] box6: `forestgreen`
+* [ ] box7: `darkorchid`
+* [ ] box8: `hotpink`
+* [ ] box9: `indigo`
+* [ ] box10: `dodgerblue`
 
 ### About Page
 
 [Review the provided design file for the about page](design-files/about.png). You have been provided the HTML wrapper, footer, and page content for the about page. Create the rest of the missing HTML and CSS to match the design file.
 
-* [x] Copy and paste your home page navigation and header into the about page
-* [x] Update the header image with the about page image
+* [ ] Copy and paste your home page navigation and header into the about page
+* [ ] Update the header image with the about page image
 * [ ] Link the `Home` navigation item back to the `index.html` page.
 * [ ] Build the rest of the about page layout to match the design
 
