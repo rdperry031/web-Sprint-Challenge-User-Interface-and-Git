@@ -94,9 +94,11 @@ header nav a{
     color: #4f4f4f;
     text-decoration: none;
 }
-img{
-    /* margin-top: 8%; */
+.imageContainer{
+    width:62%;
+    margin:4% 0 2% 20%;
 }
+
 .container {
     width: 800px;
     margin: 0 auto;
