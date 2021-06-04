@@ -78,10 +78,14 @@ p {
 }
 .navBar{
     display: flex;
-    width:60%;
-    margin:2% 0 0 18%;
+    width:100%;
+    margin-top:2%;
 }
-
+header{
+    width: 800px;
+    margin: auto;
+    border: 1px solid grey;
+}
 
 header nav {
    width: 80%;
@@ -99,16 +103,16 @@ header nav a{
     font-weight:bold
 }
 .imageContainer{
-    width:65%;
-    margin:3% 0 2% 18%;
-    border:1px solid grey;
+    width:800px%;
+    margin-top:3%;
+    
 }
 .imageContainer img{
-    width:100%;
+    width:800px;
 }
 
 .container {
-    width: 63%;
+    width: 800px;
     margin: auto;
 }
 
@@ -190,8 +194,8 @@ footer nav a {
     text-decoration: none;
 }
 .aboutInfo{
-    width: 63%;
-    margin-left: 18%;
+    width: 800px;
+    margin:auto;
     padding-bottom: 2%;
     border-bottom:1px dashed black;
 }
