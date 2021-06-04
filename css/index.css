@@ -208,3 +208,11 @@ figure{
     text-align: left;
     width: 45%;
 }
+figcaption{
+
+}
+button{
+    padding: 2.5% 7%;
+    border: 2px solid black;
+    border-radius: 1.25rem;
+}
