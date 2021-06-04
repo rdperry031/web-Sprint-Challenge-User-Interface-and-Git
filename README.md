@@ -34,23 +34,27 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-<!--  -->
+<!--Semantic HTML has meaning, determines specificity value and provide context. I'm not really sure how in depth I a supposed to get here. I guess an example would be <section> vs <div>. Section (<section>) tags are semantic in that they are used to group related elements. Div (<div>) tags, on the other hand, are simply element containers that only represent their children.    -->
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-<!--  -->
+<!--display: inline; displays an element that is unaffected by height or width values and does not start on a new line.
+display: block; displays an element on a new line that is affected by height and width values.  -->
 
 3. What are the 4 areas of the box model?
 
-<!--  -->
+<!--1.Content
+    2.Padding
+    3.Border
+    4.Margin  -->
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-<!--  -->
+<!--The cross axis, which is vertical by default and horizontal when flex-direction is set to either column or column-reverse.  -->
 
 5. Explain why git is valuable to a team of developers.
 
-<!--  -->
+<!-- Git allows for individuals to work independently and merge their changes and contributions into one main repository. It is also useful in regard to version control in that it maintains a history of changes and allows developers to revert to older versions as needed.-->
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
